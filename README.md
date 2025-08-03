@@ -24,7 +24,7 @@ The Vaelix Bank Panel Client is the frontend application designed to provide use
 1. Clone the repository:
    ```bash
    git clone https://github.com/vaelixvank/vaelix-panel.git
-````
+   ```
 
 2. Navigate to the project directory:
 
