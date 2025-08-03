@@ -1,14 +1,14 @@
 /**
  * ==============================================================
- * Project     : Zenth Cloud – Zenth Panel
+ * Project     : Vaelix Bank – Panel Client
  * File        : main.tsx
  * Version     : 1.0.0
  * Description : Client Entry Point
  * Author      : Sky Genesis Enterprise
- * Created on  : 2025-07-19
+ * Created on  : 2025-08-03
  * License     : AGPLv3
  * Forked from : N/A
- * Modified by : Liam Dispa <liam.dispa@skygenesisenterprise.com> (2025-07-20)
+ * Modified by : Liam Dispa <liam.dispa@skygenesisenterprise.com> (2025-08-03)
  * ==============================================================
  */
 
